@@ -1,0 +1,14 @@
+{
+  "name": "pbm-beslisboom",
+  "version": "1.0.0",
+  "description": "Interactieve beslisboom voor persoonlijke beschermingsmiddelen (PBM)",
+  "type": "module",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "convert-yaml": "node scripts/yaml-to-json.mjs",
+    "build": "npm run convert-yaml && npm --prefix frontend install && npm --prefix frontend run build"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.1"
+  }
+}

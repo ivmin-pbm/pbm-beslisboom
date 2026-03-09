@@ -1,0 +1,29 @@
+{
+  "name": "pbm-beslisboom",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --build --force && vite build",
+    "preview": "vite preview",
+    "convert-yaml": "node ../scripts/yaml-to-json.mjs",
+    "build:full": "npm run convert-yaml && npm run build"
+  },
+  "dependencies": {
+    "@nl-rvo/assets": "1.0.0-alpha.360",
+    "@nl-rvo/component-library-css": "1.3.0",
+    "@nl-rvo/design-tokens": "1.2.1",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/node": "^22.10.5",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vue/tsconfig": "^0.7.0",
+    "js-yaml": "^4.1.0",
+    "typescript": "~5.7.0",
+    "vite": "^6.0.7",
+    "vue-tsc": "^2.2.0"
+  }
+}
