@@ -7,13 +7,10 @@ questions:
     question: "Voor welk scenario wordt een PBM gezocht?"
     explanation: >
       Selecteer het scenario dat van toepassing is op jouw werkzaamheden.
-      Let op: voor het betreden van een laboratorium zijn standaard al verplicht:
-      labjas, gesloten schoenen, haren vast (bij schouderlengtes) en bedekkende kleding.
+      Let op: voor het betreden van een laboratorium zijn standaard al verplicht, de verplichte PBM's staan per laboratoria m.b.v. veiligheidssignaleringsstickers aangegeven op de deur.
+      Voorbeelden hiervan zijn labjas, gesloten schoenen, haren vast (bij schouderlengtes) en bedekkende kleding.
       Deze beslisboom bepaalt welke aanvullende PBM's nodig zijn.
     category: voorbereiding
-    sources:
-      - source: "Nederlands Forensisch Instituut (NFI)"
-        url: "https://www.nfi.nl"
     answers:
       - answer: "Gevaarlijke stoffen (chemicaliën / nevenproducten)"
         nextQuestionId: "1"
