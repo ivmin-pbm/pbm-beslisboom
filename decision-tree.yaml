@@ -11,6 +11,9 @@ questions:
       labjas, gesloten schoenen, haren vast (bij schouderlengtes) en bedekkende kleding.
       Deze beslisboom bepaalt welke aanvullende PBM's nodig zijn.
     category: voorbereiding
+    sources:
+      - source: "Nederlands Forensisch Instituut (NFI)"
+        url: "https://www.nfi.nl"
     answers:
       - answer: "Gevaarlijke stoffen (chemicaliën / nevenproducten)"
         nextQuestionId: "1"

@@ -29,6 +29,9 @@ Ongeacht het scenario zijn altijd verplicht:
 | Externe lichtbron (UV, infrarood, zichtbaar licht) | Stap 6 |
 | Scherpe objecten | Stap 7 |
 
+**Bronnen:**
+- [Nederlands Forensisch Instituut (NFI)](https://www.nfi.nl)
+
 ---
 
 ## Stap 1 – SDS-controle (verplicht bij gevaarlijke stoffen)
