@@ -32,7 +32,8 @@ const emit = defineEmits(['start'])
               </div>
 
               <p class="utrecht-paragraph">
-                <strong>Standaard verplicht bij betreden laboratorium (NFI):</strong>
+                <strong>De verplichte PBM's zijn per laboratorium via veiligheidssignaleringstickers aangegeven op de deur.
+                Voorbeelden hiervan zijn:</strong>
               </p>
               <ul class="rvo-ul">
                 <li>Labjas</li>
