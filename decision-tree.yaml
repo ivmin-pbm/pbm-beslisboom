@@ -4,7 +4,7 @@ name: "Interactieve Beslisboom PBM"
 questions:
   # ─── Stap 0 – Voorbereiding ───────────────────────────────────────────
   - questionId: "0"
-    question: "Voor welk scenario wordt een PBM gezocht (test)?"
+    question: "Voor welk scenario wordt een PBM gezocht?"
     explanation: >
       Selecteer het scenario dat van toepassing is op jouw werkzaamheden.
       Let op: voor het betreden van een laboratorium zijn standaard al verplicht:
