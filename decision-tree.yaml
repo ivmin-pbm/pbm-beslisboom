@@ -57,12 +57,13 @@ questions:
 
   # ─── Stap 2 – Bepaal type blootstelling ───────────────────────────────
   - questionId: "3"
-    question: "Is er risico op huidcontact, blootstelling aan de luchtwegen, of oraal contact?"
+    question: "Is er risico op huidcontact, blootstelling aan de luchtwegen, of oraal contact? Tref de juiste maatregelen om blootstelling aan gevaarlijke stoffen te voorkomen. Volg de STOP-strategie"
     explanation: >
       Beoordeel of er kans is op:
       - Huidcontact of oogcontact met de stof
       - Inhalatie van dampen, nevels of stofdeeltjes
       - Orale inname via besmette handen of oppervlakken
+      sources: [https://www.nlarbeidsinspectie.nl/onderwerpen/blootstelling-gevaarlijke-stoffen]
     category: gevaarlijke_stoffen
     answers:
       - answer: "Nee"
@@ -167,10 +168,10 @@ conclusions:
       waarmee je wilt werken. Werkzaamheden mogen niet worden gestart.
 
       Actie vereist:
-      1. Vraag het SDS op bij de leverancier of intern (bijv. via de afdeling KAM).
+      1. Zoek de SDS op in Sofos360, indien niet ingevoerd opzoeken in Chemwatch of opvragen bij leverancier.
       2. Lees rubriek 8 (Maatregelen ter beheersing van blootstelling/PBM) zorgvuldig door.
       3. Start pas met de werkzaamheden nadat je het SDS hebt gelezen en de juiste PBM's hebt geselecteerd.
-    sources: []
+    sources: [https://inception.nfi.minjus.nl/index.jsp?bookmark=ID%3D1000131]
 
   - conclusionId: "sds_niet_gelezen"
     conclusion: "Eerst het SDS lezen vóór je start"
@@ -203,8 +204,7 @@ conclusions:
   - conclusionId: "bio"
     conclusion: "Maatregelen voor biologische agentia vereist"
     obligation: >
-      Bij het werken met biologische agentia (bloed, speeksel, schimmelvorming
-      in waterrijk gebied, etc.) zijn de volgende beheersmaatregelen van toepassing:
+      Bij het werken met biologische agentia (zoals micro-organismen, lichaamsvloeistoffen zoals bloed en speeksel, en schimmels die infecties kunnen veroorzaken of toxines kunnen produceren) moeten passende beheersmaatregelen worden genomen.
 
       - Afdekkende kleding (laboratoriumjas, handschoenen, oogbescherming)
       - Vaccinatie indien van toepassing voor de specifieke biologische agens
