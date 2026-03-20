@@ -54,7 +54,7 @@ questions:
 
   # ─── Stap 2 – Bepaal type blootstelling ───────────────────────────────
   - questionId: "3"
-    question: "Is er risico op huidcontact, blootstelling aan de luchtwegen, of oraal contact? Tref de juiste maatregelen om blootstelling aan gevaarlijke stoffen te voorkomen. Volg hierbij de STOP-strategie"
+    question: "Is er risico op huidcontact, blootstelling aan de luchtwegen, of oraal contact? Tref de juiste maatregelen om blootstelling aan gevaarlijke stoffen te voorkomen. Volg de STOP-strategie"
     explanation: >
       Beoordeel of er kans is op:
       - Huidcontact of oogcontact met de stof
